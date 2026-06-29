@@ -68,6 +68,12 @@ These dump datasets are provided in the course ["SQL: A Practical Introduction f
 
 ---
 
+## Author
+
+**laingangiang2006** - [GitHub Profile](https://github.com/laingangiang2006)
+
+---
+
 ## License
 
 This project is for educational purposes. 
