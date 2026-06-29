@@ -29,7 +29,7 @@ View the full diagram as a [PDF infographic](https://github.com/laingangiang2006
 | [README.md](https://github.com/laingangiang2006/Data-Analysis-Project/blob/main/Python%20EDA%20Starbucks%20Customer%20Ordering%20Patterns/README.md) | Project documentation |
 | [Starbucks Customer Ordering Patterns Dataset](https://github.com/laingangiang2006/Data-Analysis-Project/blob/main/Python%20EDA%20Starbucks%20Customer%20Ordering%20Patterns/Starbucks%20Customer%20Ordering%20Patterns%20Infographic.pdf) | Raw dataset |
 | [Jupyter Notebook](https://github.com/laingangiang2006/Data-Analysis-Project/blob/main/Python%20EDA%20Starbucks%20Customer%20Ordering%20Patterns/Starbucks%20Customer%20Ordering%20Patterns.ipynb) | EDA and visualizations |
-| [Infographic](https://github.com/laingangiang2006/Data-Analysis-Project/blob/main/Python%20EDA%20Starbucks%20Customer%20Ordering%20Patterns/Starbucks%20Customer%20Ordering%20Patterns%20Infographic.pdf) | Infographic (pdf file) |
+| [Infographic](https://github.com/laingangiang2006/Data-Analysis-Project/blob/main/Python%20EDA%20Starbucks%20Customer%20Ordering%20Patterns/Starbucks%20Customer%20Ordering%20Patterns%20Infographic.pdf) | Infographic |
 
 > If you don't want to run and check my code locally, you can check it through my [Kaggle notebook](https://www.kaggle.com/code/laingangiang2006/starbucks-customer-ordering-patterns).
 
