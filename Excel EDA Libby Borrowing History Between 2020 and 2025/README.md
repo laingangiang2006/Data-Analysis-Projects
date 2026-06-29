@@ -43,13 +43,3 @@ View the full diagram as a [PDF infographic](https://github.com/laingangiang2006
 |------|---------|
 | **Excel** | Data cleaning, data analysis, and visualization |
 | **Canva** | Chart and infographic design |
-
----
-
-## Infographic
-
-This is the storytelling infographic, designed in Canva to communicate insights derived from Excel-based analysis, including functions, pivot tables, and pivot charts.
-
-<img width="800" height="2000" alt="DataInformational" src="https://github.com/user-attachments/assets/611e3649-a52f-428e-8753-af67d616e875" />
-
-> Alternatively, you can view the diagram by downloading this pdf [infographic](https://github.com/laingangiang2006/Excel-Libby-Borrowing-History-Analysis-Between-2020-and-2025/blob/main/Infographic.pdf) or viewing in [Canva](https://canva.link/oqysyspr6q4xvz6).
