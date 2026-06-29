@@ -34,8 +34,14 @@ Datasets for the first two projects are sourced from Microsoft's courses on Cour
 
 ---
 
+## Author
+
+**laingangiang2006** - [GitHub Profile](https://github.com/laingangiang2006)
+
+---
+
 ## License
 
-This project is open for educational and personal use. 
+This project is for educational purposes.
 
 Dataset credit: Datasets for the first two projects are sourced from Microsoft's courses on Coursera, called ["Harnessing the Power of Data with Power BI"](https://www.coursera.org/learn/harnessing-the-power-of-data-with-power-bi?specialization=microsoft-power-bi-data-analyst).
