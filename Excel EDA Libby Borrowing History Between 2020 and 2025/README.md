@@ -43,3 +43,17 @@ View the full diagram as a [PDF infographic](https://github.com/laingangiang2006
 |------|---------|
 | **Excel** | Data cleaning, data analysis, and visualization |
 | **Canva** | Chart and infographic design |
+
+---
+
+## Author
+
+**laingangiang2006** - [GitHub Profile](https://github.com/laingangiang2006)
+
+---
+
+## License
+
+This project is for educational purposes. 
+
+Dataset credit: This dataset was provided as part of the Data Analysis Assignment for INFO 101 at Victoria University of Wellington, Trimester 1 (2026).
