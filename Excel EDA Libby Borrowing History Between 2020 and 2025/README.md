@@ -21,7 +21,7 @@ As required by the lecturers and tutors, after processing data and making the pi
 
 ---
 
-# Infographic
+## Infographic
 
 > View the full diagram as a [PDF infographic](https://github.com/laingangiang2006/Data-Analysis-Project/blob/main/Excel%20EDA%20Libby%20Borrowing%20History%20Between%202020%20and%202025/Infographic.pdf) or open it directly in [Canva](https://canva.link/oqysyspr6q4xvz6).
 
