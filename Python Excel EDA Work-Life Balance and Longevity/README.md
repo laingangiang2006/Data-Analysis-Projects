@@ -20,9 +20,7 @@ The dataset is uploaded by [Oluwatishin Adewale on Kaggle](https://www.kaggle.co
 
 ## Infographic
 
-This is the storytelling infographic, designed in Canva to communicate insights derived from Excel-based analysis, including functions, pivot tables, and pivot charts.
-
-<img width="7641" height="6726" alt="Work-Life Balance and Longevity" src="https://github.com/user-attachments/assets/103a4978-ac1d-4ab4-8b97-1bb72fd40a3a" />
+<img width="7641" height="6726" alt="Work-Life Balance and Longevity" src="https://github.com/user-attachments/assets/7fdf11b6-9d14-4044-807d-edc2f2de045a" />
 
 > Alternatively, you can view the infographic by downloading this pdf [infographic](https://github.com/laingangiang2006/Excel-Work-Life-Balance-and-Longevity/blob/main/Infographic.pdf) or viewing in [Canva](https://canva.link/gfq8sjxzwlxwicy).
 
@@ -32,12 +30,11 @@ This is the storytelling infographic, designed in Canva to communicate insights 
 
 | File | Description |
 |------|-------------|
-| [README.md](https://github.com/laingangiang2006/Netflix-Movies-and-TV-Shows/blob/main/README.md) | Project documentation |
-| [Charts](https://github.com/laingangiang2006/Starbucks-Customer-Ordering-Patterns/tree/main/Figures) | Charts |
-| [Dataset](https://github.com/laingangiang2006/Excel-Work-Life-Balance-and-Longevity/blob/main/Quality%20of%20Life%20Dataset.csv) | Raw dataset |
-| [Excel Workbook](https://github.com/laingangiang2006/Excel-Work-Life-Balance-and-Longevity/blob/main/Work-Life%20Balance%20and%20Longevity.xlsx) | Data Cleaning, Analysis, and Chart Visualization |
-| [Infographic](https://github.com/laingangiang2006/Excel-Work-Life-Balance-and-Longevity/blob/main/Infographic.pdf) | Infographic (pdf file) |
-| [Jupyter Notebook](https://github.com/laingangiang2006/Python-Excel-Work-Life-Balance-and-Longevity/blob/main/work_life_balance.ipynb) | A Jupyter notebook for data analysis and visualization, using Python |
+| [README.md](https://github.com/laingangiang2006/Data-Analysis-Project/blob/main/Python%20Excel%20EDA%20Work-Life%20Balance%20and%20Longevity/README.md) | Project documentation |
+| [Dataset](https://github.com/laingangiang2006/Data-Analysis-Project/blob/main/Python%20Excel%20EDA%20Work-Life%20Balance%20and%20Longevity/Quality%20of%20Life%20Dataset.csv) | Raw dataset |
+| [Excel Workbook](https://github.com/laingangiang2006/Data-Analysis-Project/blob/main/Python%20Excel%20EDA%20Work-Life%20Balance%20and%20Longevity/Work-Life%20Balance%20and%20Longevity.xlsx) | Data Cleaning, Analysis, and Chart Visualization |
+| [Infographic](https://github.com/laingangiang2006/Data-Analysis-Project/blob/main/Python%20Excel%20EDA%20Work-Life%20Balance%20and%20Longevity/Infographic.pdf) | Infographic (pdf file) |
+| [Jupyter Notebook]([main/work_life_balance.ipynb](https://github.com/laingangiang2006/Data-Analysis-Project/blob/main/Python%20Excel%20EDA%20Work-Life%20Balance%20and%20Longevity/work_life_balance.ipynb)) | A Jupyter notebook for data analysis and visualization, using Python |
 
 > If you don't want to run and check my code locally, you can check it through my [Kaggle notebook](https://www.kaggle.com/code/laingangiang2006/notebook8fe24a13b3).
 
