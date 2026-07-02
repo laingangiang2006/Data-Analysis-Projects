@@ -37,6 +37,7 @@ View the full diagram as a [PDF infographic](https://github.com/laingangiang2006
 | **VSCode** | Text editor |
 | **Jupyter Notebook** | Interactive Python environment for data analysis and visualization |
 | **Python & Python Libraries (Pandas, Matplotlib, Seaborn)** | Data manipulation, analysis, and visualization |
+| **Canva** | Chart and infographic design |
 | **Coursera** | Source of projects and datasets for analysis |
 
 ---
